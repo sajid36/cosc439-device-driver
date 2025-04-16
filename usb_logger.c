@@ -55,6 +55,6 @@ module_init(usb_logger_init);
 module_exit(usb_logger_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("You");
+MODULE_AUTHOR("Sajid");
 MODULE_DESCRIPTION("A simple USB logger kernel module in C");
 
